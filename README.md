@@ -27,9 +27,11 @@ Please provide as much detail as possible, including:
 - Steps to reproduce (for bugs)
 - Screenshots (if applicable)
 
-## 🗺️ Roadmap
+## 🗺️ Beta Testing
 
-Check out our [Projects](https://github.com/soundleaf/issues/projects) tab to see what we're currently working on and what's planned for future releases.
+Join our TestFlight beta to try the latest features before they're released:
+
+[Join TestFlight Beta](https://testflight.apple.com/join/fwu2bdjX)
 
 ## 📱 Download SoundLeaf
 
